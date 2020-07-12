@@ -1,0 +1,9 @@
+Congratulations, you have succeeded in downloading End of a new Beginning (low-res screen patch) from GitHub! 
+
+To install the mod, simply place the "toi_scrollbars" folder and the "toi_scrollbars" file in "Documents/Paradox Interactive/Hearts of Iron IV/mod"
+
+If you have file extensions enabled, the "toi_scrollbars" file may be called "toi_scrollbars.mod"
+
+The "LICENSE" and "README" files are just for GitHub and can be deleted.
+
+Have fun!
